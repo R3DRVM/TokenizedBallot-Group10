@@ -5,6 +5,7 @@ const voterMitch = "0x06263e1A856B36e073ba7a50D240123411501611"
 const redrumAddress = "0xF185087bE41f7Ae83690998f97C8c512b3a55f00"
 const haliAddress = "0x88476d163Bc73f465eFd937EE60855e1BB1c3Bb7"
 const tokenContractLesson12 = "0xb46c4e94fbb1e447a0e64f37cde249f65e5147d3"
+const findthefunctionAddress = "0xa2453A629D6B2e555De658835F2277638661916E"
 
 
-export {haliAddress, contractAddress, masterMitch, voterMitch, redrumAddress, redrumBallotContractAddress, tokenContractLesson12}
+export {haliAddress, contractAddress, masterMitch, voterMitch, redrumAddress, redrumBallotContractAddress, tokenContractLesson12, findthefunctionAddress}
